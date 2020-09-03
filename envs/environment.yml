@@ -39,4 +39,3 @@ dependencies:
     - multidict==4.7.6
     - python-dotenv==0.14.0
     - yarl==1.5.1
-prefix: C:\Users\mattg\anaconda3\envs\DiscordBot
